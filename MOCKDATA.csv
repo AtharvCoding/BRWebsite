@@ -1,0 +1,501 @@
+house_id,mainframe_zone,spawnpoint,hh_weight,state_of_decay,in_dystopia,homies_living_inside,age_of_eldest_goblin,monthly_grind_income,foodie_expenses,rent_for_box,plastic_flex
+HH1000,rizz_rural,7202,0.64,JhorrorKhand,False,6,28,26200.0,13540.0,1400.0,False
+HH1001,midtown_sadness,7412,3.82,Panic Nadu,True,3,65,5200.0,2060.0,1900.0,False
+HH1002,no_scope_city,5420,1.88,Kerela.ai,False,4,44,6100.0,3490.0,1900.0,False
+HH1003,feral_block,6232,3.6,Moodhya Pradesh,True,3,62,12800.0,4330.0,7300.0,False
+HH1004,delulu_hub,7991,1.95,Biharify,True,3,32,10800.0,3820.0,11200.0,False
+HH1005,delulu_hub,2879,3.94,Moodhya Pradesh,True,4,63,11800.0,5290.0,9200.0,False
+HH1006,delulu_hub,1024,1.38,Uttar Downbad,True,3,74,15400.0,5000.0,7200.0,False
+HH1007,midtown_sadness,1681,4.4,karNAHtaka,True,3,54,30000.0,10760.0,9300.0,False
+HH1008,feral_block,7814,3.62,Panic Nadu,True,3,71,12900.0,7520.0,5800.0,False
+HH1009,no_scope_city,3424,0.96,Kerela.ai,False,1,57,7800.0,4620.0,100.0,False
+HH1010,delulu_hub,5813,2.76,Moodhya Pradesh,False,1,58,7300.0,3010.0,1700.0,False
+HH1011,midtown_sadness,7126,4.44,Panic Nadu,True,9,62,25200.0,14540.0,4500.0,False
+HH1012,no_scope_city,355,2.38,Uttar Downbad,False,5,38,16700.0,7740.0,1200.0,False
+HH1013,rizz_rural,4904,1.23,karNAHtaka,True,1,56,14500.0,5520.0,7100.0,False
+HH1014,delulu_hub,1938,2.44,JhorrorKhand,True,2,69,24600.0,12560.0,0.0,False
+HH1015,delulu_hub,109,2.55,Biharify,False,2,26,10700.0,5330.0,1800.0,False
+HH1016,rizz_rural,2971,3.47,Panic Nadu,True,5,69,16100.0,9610.0,8000.0,False
+HH1017,coastal_L,9089,3.3,Panic Nadu,True,6,53,12300.0,4670.0,5800.0,False
+HH1018,coastal_L,7509,2.11,JhorrorKhand,True,5,24,9300.0,4670.0,0.0,False
+HH1019,rizz_rural,7518,1.37,Panic Nadu,True,3,73,8000.0,2520.0,11000.0,False
+HH1020,feral_block,5224,3.08,Uttar Downbad,False,3,68,3500.0,1170.0,2000.0,False
+HH1021,delulu_hub,1115,2.19,Uttar Downbad,True,4,56,16300.0,4910.0,8300.0,False
+HH1022,rizz_rural,2293,1.03,JhorrorKhand,False,2,73,13400.0,8040.0,1600.0,False
+HH1023,rizz_rural,8515,4.1,Biharify,True,6,35,18100.0,9790.0,8600.0,False
+HH1024,coastal_L,7549,3.26,Kerela.ai,True,6,69,10000.0,5360.0,12500.0,False
+HH1025,no_scope_city,4258,3.23,Moodhya Pradesh,True,2,52,7100.0,3220.0,4800.0,False
+HH1026,delulu_hub,4025,3.79,Kerela.ai,False,3,52,8000.0,3120.0,700.0,False
+HH1027,coastal_L,7070,2.62,Panic Nadu,True,5,38,22800.0,7870.0,8200.0,False
+HH1028,feral_block,7038,3.76,Moodhya Pradesh,False,4,45,13600.0,5240.0,0.0,False
+HH1029,delulu_hub,4884,2.49,maharizztra,False,5,73,13700.0,5660.0,400.0,False
+HH1030,feral_block,4100,0.77,JhorrorKhand,True,1,44,15300.0,8060.0,8200.0,False
+HH1031,delulu_hub,1733,2.12,JhorrorKhand,False,6,39,11000.0,5080.0,1600.0,False
+HH1032,delulu_hub,7366,2.49,Biharify,False,2,71,12900.0,4170.0,1800.0,False
+HH1033,midtown_sadness,8802,3.38,Moodhya Pradesh,False,5,75,34300.0,10480.0,1500.0,True
+HH1034,midtown_sadness,484,0.93,Uttar Downbad,True,6,35,25700.0,8500.0,7500.0,False
+HH1035,no_scope_city,504,1.06,Moodhya Pradesh,True,1,71,11800.0,4990.0,11700.0,False
+HH1036,rizz_rural,8275,1.55,Panic Nadu,True,4,36,12900.0,7480.0,6100.0,False
+HH1037,delulu_hub,2100,1.57,Uttar Downbad,True,5,36,17000.0,8350.0,6900.0,False
+HH1038,feral_block,9960,3.43,karNAHtaka,True,6,27,27600.0,14920.0,11400.0,False
+HH1039,coastal_L,6089,1.5,karNAHtaka,False,4,48,24600.0,10820.0,2500.0,False
+HH1040,delulu_hub,1560,3.03,maharizztra,True,2,36,26000.0,10620.0,8500.0,False
+HH1041,coastal_L,7290,2.48,karNAHtaka,True,8,71,18000.0,5990.0,9600.0,False
+HH1042,delulu_hub,7240,2.79,JhorrorKhand,False,6,57,6800.0,3830.0,1900.0,False
+HH1043,midtown_sadness,3736,3.85,Moodhya Pradesh,False,3,29,30900.0,16530.0,4000.0,False
+HH1044,rizz_rural,4909,2.12,karNAHtaka,True,5,36,9300.0,3260.0,9000.0,False
+HH1045,feral_block,4278,3.58,Kerela.ai,False,4,24,18200.0,8260.0,1600.0,False
+HH1046,rizz_rural,7345,2.19,Biharify,True,1,68,1800.0,800.0,9400.0,False
+HH1047,coastal_L,6700,1.92,Kerela.ai,True,3,34,11500.0,5610.0,5400.0,False
+HH1048,coastal_L,6097,4.33,karNAHtaka,False,4,62,10400.0,6070.0,2100.0,False
+HH1049,delulu_hub,2148,1.24,maharizztra,True,2,55,26100.0,12370.0,2400.0,False
+HH1050,midtown_sadness,4880,0.86,Biharify,True,4,45,14900.0,6880.0,5500.0,False
+HH1051,no_scope_city,816,3.58,Panic Nadu,True,4,61,12500.0,3940.0,4600.0,False
+HH1052,midtown_sadness,8039,0.77,Kerela.ai,True,5,53,16800.0,5360.0,5800.0,False
+HH1053,midtown_sadness,5665,3.85,maharizztra,True,3,53,3200.0,1140.0,8800.0,False
+HH1054,feral_block,4644,2.25,Moodhya Pradesh,True,2,51,6900.0,2140.0,1800.0,False
+HH1055,midtown_sadness,5076,4.16,Moodhya Pradesh,False,4,73,9600.0,5020.0,200.0,False
+HH1056,delulu_hub,3519,3.39,Kerela.ai,False,4,70,17100.0,8840.0,1100.0,False
+HH1057,delulu_hub,7339,2.94,karNAHtaka,True,2,34,5500.0,1870.0,8400.0,False
+HH1058,delulu_hub,9866,4.3,maharizztra,True,6,22,15700.0,8650.0,7900.0,False
+HH1059,rizz_rural,349,2.09,Moodhya Pradesh,True,5,55,12800.0,4430.0,4700.0,False
+HH1060,rizz_rural,8965,4.32,Panic Nadu,True,4,36,9100.0,3550.0,10500.0,False
+HH1061,rizz_rural,870,1.04,Uttar Downbad,False,4,65,9400.0,3520.0,1000.0,False
+HH1062,no_scope_city,4463,2.44,karNAHtaka,True,6,35,13800.0,5680.0,8400.0,False
+HH1063,rizz_rural,1177,1.58,maharizztra,True,4,50,5200.0,1960.0,5900.0,False
+HH1064,rizz_rural,8527,2.66,Panic Nadu,False,4,55,18500.0,8260.0,3100.0,False
+HH1065,coastal_L,8680,1.15,maharizztra,False,3,39,7200.0,3040.0,300.0,False
+HH1066,delulu_hub,8001,3.87,Biharify,False,1,75,7800.0,4650.0,3800.0,False
+HH1067,no_scope_city,4958,3.89,Panic Nadu,True,5,28,28500.0,9030.0,8100.0,False
+HH1068,delulu_hub,6644,4.32,karNAHtaka,True,5,50,19700.0,6750.0,9900.0,False
+HH1069,midtown_sadness,4819,1.12,Biharify,True,7,52,9900.0,3130.0,8100.0,False
+HH1070,no_scope_city,2914,2.99,karNAHtaka,True,4,46,4200.0,2050.0,2200.0,False
+HH1071,delulu_hub,3474,2.4,Moodhya Pradesh,False,3,59,15100.0,4780.0,900.0,False
+HH1072,delulu_hub,1352,1.88,Uttar Downbad,False,1,35,8000.0,4410.0,2000.0,False
+HH1073,no_scope_city,7096,1.91,karNAHtaka,False,5,29,14700.0,6670.0,400.0,False
+HH1074,no_scope_city,4773,2.15,karNAHtaka,False,8,48,22300.0,10220.0,1800.0,False
+HH1075,no_scope_city,4630,3.32,Moodhya Pradesh,True,3,75,18900.0,8850.0,10300.0,False
+HH1076,no_scope_city,6981,2.89,JhorrorKhand,False,1,23,6900.0,2420.0,1700.0,False
+HH1077,delulu_hub,7049,2.34,Moodhya Pradesh,True,1,38,8700.0,3130.0,8800.0,False
+HH1078,rizz_rural,9621,0.8,Biharify,True,2,58,13100.0,5180.0,800.0,False
+HH1079,delulu_hub,6341,0.81,Moodhya Pradesh,True,6,35,17700.0,8460.0,9000.0,False
+HH1080,midtown_sadness,8117,0.51,Moodhya Pradesh,True,3,46,12700.0,4610.0,3800.0,False
+HH1081,feral_block,7041,4.37,Uttar Downbad,True,5,51,26800.0,8980.0,7800.0,False
+HH1082,rizz_rural,9650,0.52,Moodhya Pradesh,False,3,50,14600.0,8630.0,800.0,False
+HH1083,delulu_hub,7102,0.91,maharizztra,True,3,41,17200.0,5270.0,9500.0,False
+HH1084,rizz_rural,1431,1.76,karNAHtaka,True,5,42,15300.0,8270.0,10700.0,False
+HH1085,rizz_rural,4361,3.73,maharizztra,True,2,74,5400.0,2900.0,10400.0,False
+HH1086,no_scope_city,7748,4.35,Uttar Downbad,False,4,43,8900.0,3460.0,100.0,False
+HH1087,feral_block,9650,3.66,Kerela.ai,True,3,56,5800.0,1980.0,8800.0,False
+HH1088,midtown_sadness,5215,3.26,JhorrorKhand,False,8,58,25200.0,8660.0,1300.0,False
+HH1089,coastal_L,4737,2.59,maharizztra,True,3,37,4800.0,2440.0,4900.0,False
+HH1090,delulu_hub,4954,0.85,Uttar Downbad,False,7,71,14400.0,7100.0,1900.0,False
+HH1091,no_scope_city,3277,4.33,Biharify,True,2,70,8200.0,4390.0,5800.0,False
+HH1092,no_scope_city,7830,3.53,Kerela.ai,False,8,64,14100.0,8200.0,1000.0,False
+HH1093,feral_block,2280,3.06,Uttar Downbad,False,8,38,14500.0,7360.0,500.0,False
+HH1094,no_scope_city,4992,3.54,Uttar Downbad,True,4,37,28500.0,9880.0,8700.0,True
+HH1095,coastal_L,7143,3.4,JhorrorKhand,True,5,23,6100.0,2280.0,9300.0,False
+HH1096,coastal_L,237,3.05,karNAHtaka,True,3,25,23000.0,12710.0,4100.0,False
+HH1097,coastal_L,6427,4.42,maharizztra,True,6,42,13000.0,4720.0,7900.0,False
+HH1098,delulu_hub,3572,4.11,Biharify,True,4,60,19200.0,6180.0,7800.0,False
+HH1099,delulu_hub,5549,3.09,Panic Nadu,False,2,55,10900.0,5570.0,1400.0,False
+HH1100,delulu_hub,2932,3.27,maharizztra,True,5,51,8100.0,3410.0,6500.0,False
+HH1101,feral_block,3679,0.71,Panic Nadu,True,5,27,26300.0,15150.0,2500.0,False
+HH1102,rizz_rural,6071,3.18,Uttar Downbad,True,5,38,24100.0,11930.0,6000.0,False
+HH1103,coastal_L,4264,0.68,Moodhya Pradesh,True,3,60,6300.0,2060.0,9900.0,False
+HH1104,midtown_sadness,8041,2.85,Biharify,False,4,46,16800.0,9820.0,1800.0,False
+HH1105,rizz_rural,5669,4.5,Kerela.ai,True,2,26,7100.0,2680.0,12700.0,False
+HH1106,coastal_L,4400,2.72,Moodhya Pradesh,False,4,26,5900.0,2370.0,2000.0,False
+HH1107,no_scope_city,6369,2.39,Moodhya Pradesh,False,6,41,10200.0,4290.0,900.0,False
+HH1108,rizz_rural,3918,1.75,maharizztra,False,4,37,24500.0,7730.0,1700.0,False
+HH1109,delulu_hub,2006,0.98,Biharify,False,3,72,18500.0,8310.0,700.0,False
+HH1110,rizz_rural,6354,3.42,karNAHtaka,True,3,62,9600.0,3240.0,11100.0,False
+HH1111,delulu_hub,860,1.27,Uttar Downbad,False,4,58,24500.0,10300.0,1500.0,False
+HH1112,midtown_sadness,7930,0.96,Uttar Downbad,True,9,61,27100.0,10980.0,5600.0,False
+HH1113,no_scope_city,7450,2.19,Uttar Downbad,True,5,30,9300.0,4950.0,9000.0,False
+HH1114,feral_block,6338,3.68,Uttar Downbad,False,3,26,26900.0,14550.0,100.0,False
+HH1115,midtown_sadness,6190,3.48,maharizztra,False,7,63,13200.0,4570.0,1400.0,False
+HH1116,no_scope_city,6131,0.72,Panic Nadu,False,7,23,13900.0,5700.0,800.0,False
+HH1117,delulu_hub,7787,2.32,Uttar Downbad,True,6,30,7100.0,2930.0,6800.0,False
+HH1118,midtown_sadness,9191,2.59,Panic Nadu,True,3,64,8000.0,2760.0,10400.0,False
+HH1119,coastal_L,8572,3.08,Panic Nadu,False,3,57,10500.0,5670.0,1000.0,False
+HH1120,no_scope_city,1987,3.1,karNAHtaka,True,7,43,17500.0,8960.0,4900.0,False
+HH1121,midtown_sadness,3366,1.96,Uttar Downbad,False,5,43,8100.0,2890.0,3000.0,False
+HH1122,rizz_rural,766,2.74,JhorrorKhand,False,6,43,10400.0,4260.0,700.0,False
+HH1123,delulu_hub,4288,2.42,Kerela.ai,True,4,55,28200.0,9360.0,10700.0,False
+HH1124,rizz_rural,771,4.04,Moodhya Pradesh,True,5,50,22300.0,10890.0,6400.0,False
+HH1125,coastal_L,6877,2.62,Panic Nadu,True,1,59,20500.0,6900.0,4000.0,False
+HH1126,no_scope_city,7670,2.26,Biharify,True,1,67,9000.0,5360.0,4100.0,False
+HH1127,midtown_sadness,8056,2.12,Biharify,False,9,54,19700.0,10520.0,2000.0,False
+HH1128,delulu_hub,5224,2.79,Kerela.ai,True,6,39,19000.0,7920.0,6100.0,False
+HH1129,coastal_L,5685,3.72,Biharify,False,6,28,30000.0,14210.0,100.0,True
+HH1130,coastal_L,4877,2.65,JhorrorKhand,True,4,22,5900.0,3380.0,5000.0,False
+HH1131,rizz_rural,4000,3.15,Biharify,False,3,54,8400.0,3920.0,2000.0,False
+HH1132,delulu_hub,6777,3.45,Moodhya Pradesh,True,6,22,16000.0,5640.0,6100.0,False
+HH1133,rizz_rural,7081,2.58,Moodhya Pradesh,True,2,45,10900.0,4510.0,4800.0,False
+HH1134,midtown_sadness,6476,2.21,Panic Nadu,True,2,25,6400.0,3540.0,6000.0,False
+HH1135,rizz_rural,623,4.01,Uttar Downbad,False,9,25,21200.0,10460.0,200.0,False
+HH1136,coastal_L,2493,2.17,karNAHtaka,False,5,39,10600.0,5250.0,1200.0,False
+HH1137,no_scope_city,2693,2.35,JhorrorKhand,False,4,48,12400.0,6940.0,1500.0,False
+HH1138,rizz_rural,7340,4.46,Panic Nadu,True,3,64,14800.0,8410.0,3400.0,False
+HH1139,midtown_sadness,7037,0.5,JhorrorKhand,True,8,53,13800.0,7950.0,10000.0,False
+HH1140,midtown_sadness,6290,1.24,Uttar Downbad,True,2,54,16600.0,5450.0,4300.0,False
+HH1141,rizz_rural,5340,2.04,maharizztra,True,5,49,21500.0,9960.0,7800.0,False
+HH1142,coastal_L,6593,4.23,Biharify,True,4,63,8500.0,4440.0,6900.0,False
+HH1143,rizz_rural,2978,0.78,Biharify,False,3,62,8600.0,4530.0,800.0,False
+HH1144,rizz_rural,4243,0.54,karNAHtaka,False,5,57,8500.0,4100.0,2800.0,False
+HH1145,delulu_hub,3744,0.71,Uttar Downbad,False,2,27,10300.0,3610.0,800.0,False
+HH1146,feral_block,4532,0.85,Panic Nadu,False,2,37,12500.0,6740.0,0.0,False
+HH1147,coastal_L,1376,0.65,karNAHtaka,True,3,55,9300.0,4800.0,10400.0,False
+HH1148,delulu_hub,5911,2.42,Uttar Downbad,True,8,44,18300.0,5960.0,4300.0,False
+HH1149,rizz_rural,402,2.82,Kerela.ai,True,2,71,7500.0,3290.0,8200.0,False
+HH1150,midtown_sadness,738,1.59,Moodhya Pradesh,False,5,63,10600.0,3730.0,500.0,False
+HH1151,rizz_rural,155,2.09,karNAHtaka,True,3,45,13900.0,5580.0,10800.0,False
+HH1152,delulu_hub,8817,0.87,karNAHtaka,True,4,70,9900.0,3020.0,7600.0,False
+HH1153,coastal_L,8250,1.85,Panic Nadu,True,4,34,11900.0,5000.0,4500.0,False
+HH1154,midtown_sadness,2225,2.59,JhorrorKhand,True,5,39,16200.0,7530.0,2200.0,False
+HH1155,rizz_rural,464,3.43,Kerela.ai,False,1,75,11200.0,5440.0,1400.0,False
+HH1156,feral_block,6909,0.51,Panic Nadu,False,2,34,7500.0,3740.0,1700.0,False
+HH1157,no_scope_city,4721,2.37,Uttar Downbad,True,2,70,19600.0,10800.0,5100.0,False
+HH1158,rizz_rural,5226,1.69,Uttar Downbad,False,1,58,13600.0,4960.0,800.0,False
+HH1159,no_scope_city,5222,3.91,Uttar Downbad,False,3,64,13000.0,4370.0,1800.0,False
+HH1160,rizz_rural,1746,3.36,maharizztra,True,6,60,9100.0,5050.0,7100.0,False
+HH1161,feral_block,1018,2.86,Uttar Downbad,True,2,63,11100.0,3850.0,6300.0,False
+HH1162,feral_block,2897,1.61,JhorrorKhand,True,5,38,9900.0,5870.0,6000.0,False
+HH1163,coastal_L,6606,4.14,Kerela.ai,True,6,36,17900.0,9890.0,0.0,False
+HH1164,delulu_hub,5970,0.68,Biharify,False,5,39,5200.0,2340.0,2900.0,False
+HH1165,no_scope_city,1631,0.94,Moodhya Pradesh,True,7,44,13800.0,8200.0,8900.0,False
+HH1166,rizz_rural,8272,2.07,JhorrorKhand,False,6,75,11300.0,3720.0,500.0,False
+HH1167,delulu_hub,3445,1.0,JhorrorKhand,True,1,72,15600.0,6100.0,1500.0,False
+HH1168,delulu_hub,7773,4.33,maharizztra,True,4,51,5200.0,2560.0,4600.0,False
+HH1169,feral_block,7049,3.69,Biharify,True,4,55,12600.0,5100.0,10200.0,False
+HH1170,feral_block,6982,1.54,Biharify,True,2,25,14500.0,8390.0,4800.0,False
+HH1171,delulu_hub,2006,2.85,Moodhya Pradesh,True,5,24,32000.0,10230.0,6700.0,True
+HH1172,coastal_L,3186,4.43,Moodhya Pradesh,False,7,28,12600.0,5860.0,1700.0,False
+HH1173,rizz_rural,8252,4.04,Biharify,True,5,39,15600.0,7450.0,5900.0,False
+HH1174,feral_block,5850,2.9,Uttar Downbad,False,3,63,4300.0,2130.0,1100.0,False
+HH1175,delulu_hub,9005,4.11,JhorrorKhand,True,3,28,11300.0,4260.0,6500.0,False
+HH1176,feral_block,1162,4.46,Panic Nadu,True,5,61,23500.0,9620.0,12600.0,False
+HH1177,rizz_rural,2076,3.47,Moodhya Pradesh,True,4,27,31200.0,17260.0,8300.0,True
+HH1178,midtown_sadness,1396,0.76,maharizztra,True,4,43,15300.0,5480.0,7100.0,False
+HH1179,delulu_hub,6329,2.11,maharizztra,True,5,22,6800.0,3730.0,5400.0,False
+HH1180,rizz_rural,7741,3.85,Moodhya Pradesh,True,1,25,21500.0,10080.0,8600.0,False
+HH1181,delulu_hub,225,1.42,Biharify,True,2,67,3800.0,2010.0,9000.0,False
+HH1182,midtown_sadness,4732,3.82,Kerela.ai,True,3,70,5800.0,2980.0,3800.0,False
+HH1183,midtown_sadness,6388,0.98,Panic Nadu,True,3,73,24700.0,8950.0,9100.0,False
+HH1184,rizz_rural,3696,0.69,Panic Nadu,True,7,71,14800.0,6970.0,6500.0,False
+HH1185,feral_block,6268,2.04,Moodhya Pradesh,False,5,64,10100.0,5660.0,2300.0,False
+HH1186,no_scope_city,9895,0.65,Uttar Downbad,False,6,50,19700.0,8460.0,1100.0,False
+HH1187,feral_block,7661,4.33,Kerela.ai,True,5,42,14400.0,8500.0,5800.0,False
+HH1188,coastal_L,8358,3.8,Panic Nadu,True,4,47,21400.0,9320.0,3900.0,False
+HH1189,rizz_rural,332,3.7,Moodhya Pradesh,False,1,35,10800.0,3700.0,3200.0,False
+HH1190,delulu_hub,9461,3.02,maharizztra,False,3,30,12900.0,5380.0,1500.0,False
+HH1191,midtown_sadness,6471,1.37,Panic Nadu,True,4,68,21000.0,12300.0,5900.0,False
+HH1192,midtown_sadness,4306,2.57,karNAHtaka,False,5,33,12800.0,5070.0,1000.0,False
+HH1193,feral_block,9785,2.89,Kerela.ai,True,5,63,8800.0,4930.0,13500.0,False
+HH1194,rizz_rural,8043,2.6,Kerela.ai,True,6,72,20300.0,11460.0,3600.0,False
+HH1195,rizz_rural,6991,1.54,karNAHtaka,False,7,72,13600.0,5510.0,0.0,False
+HH1196,no_scope_city,6838,2.56,JhorrorKhand,True,5,27,15400.0,5000.0,2600.0,False
+HH1197,midtown_sadness,2572,2.46,maharizztra,False,3,41,3900.0,2020.0,900.0,False
+HH1198,midtown_sadness,2839,4.49,karNAHtaka,False,3,45,10500.0,4130.0,2900.0,False
+HH1199,no_scope_city,5501,4.09,Biharify,True,4,48,9400.0,5030.0,5100.0,False
+HH1200,feral_block,1861,2.35,Biharify,True,6,59,6900.0,2990.0,7600.0,False
+HH1201,delulu_hub,976,2.99,Moodhya Pradesh,True,5,29,12700.0,5660.0,7200.0,False
+HH1202,delulu_hub,3912,3.49,Kerela.ai,True,7,22,14900.0,7950.0,4600.0,False
+HH1203,midtown_sadness,9604,0.64,JhorrorKhand,False,3,75,13900.0,5760.0,200.0,False
+HH1204,feral_block,1560,4.08,JhorrorKhand,True,6,70,24300.0,10520.0,2300.0,False
+HH1205,delulu_hub,1833,3.94,Panic Nadu,True,1,70,17300.0,7140.0,7900.0,False
+HH1206,delulu_hub,1705,2.33,Panic Nadu,False,4,45,9700.0,3980.0,1700.0,False
+HH1207,feral_block,5722,2.06,karNAHtaka,True,6,68,15600.0,7140.0,7000.0,False
+HH1208,delulu_hub,6867,1.59,JhorrorKhand,False,5,28,17100.0,9280.0,1900.0,False
+HH1209,delulu_hub,7086,2.41,karNAHtaka,True,3,40,8900.0,3640.0,7600.0,False
+HH1210,coastal_L,3617,0.68,maharizztra,False,2,43,4000.0,1830.0,3100.0,False
+HH1211,feral_block,3835,3.91,karNAHtaka,True,5,56,12100.0,6060.0,9700.0,False
+HH1212,feral_block,9452,0.64,Panic Nadu,True,6,51,24800.0,9440.0,5800.0,False
+HH1213,rizz_rural,8534,1.82,Kerela.ai,True,2,50,3900.0,1490.0,3000.0,False
+HH1214,no_scope_city,2690,4.23,karNAHtaka,True,7,43,10500.0,6090.0,6100.0,False
+HH1215,rizz_rural,1163,3.44,Uttar Downbad,False,10,32,14200.0,7340.0,2300.0,False
+HH1216,rizz_rural,4424,1.63,Kerela.ai,False,8,41,11500.0,5440.0,200.0,False
+HH1217,no_scope_city,9211,1.51,JhorrorKhand,False,5,50,18700.0,9240.0,1700.0,False
+HH1218,feral_block,5442,0.52,JhorrorKhand,True,1,72,5900.0,1820.0,4700.0,False
+HH1219,no_scope_city,105,3.28,karNAHtaka,True,2,62,16000.0,7770.0,5100.0,False
+HH1220,feral_block,7589,0.7,Kerela.ai,True,2,63,10600.0,4800.0,3900.0,False
+HH1221,feral_block,8759,2.63,Panic Nadu,True,6,55,7400.0,3430.0,9100.0,False
+HH1222,delulu_hub,8295,4.35,Panic Nadu,False,4,22,10000.0,4080.0,1000.0,False
+HH1223,rizz_rural,6066,0.94,Biharify,True,3,52,19700.0,6390.0,4100.0,False
+HH1224,rizz_rural,8937,4.08,JhorrorKhand,True,3,51,12400.0,4440.0,5800.0,False
+HH1225,rizz_rural,217,4.47,Moodhya Pradesh,True,7,69,13300.0,7780.0,0.0,False
+HH1226,midtown_sadness,2651,0.75,Biharify,False,1,39,20000.0,8450.0,1700.0,False
+HH1227,rizz_rural,5660,4.03,Panic Nadu,False,5,38,8100.0,3560.0,800.0,False
+HH1228,midtown_sadness,4389,2.56,Kerela.ai,False,1,59,6000.0,1890.0,2600.0,False
+HH1229,feral_block,946,4.13,maharizztra,True,4,35,19600.0,6100.0,2600.0,False
+HH1230,no_scope_city,6416,2.79,Panic Nadu,True,2,44,15600.0,8040.0,5700.0,False
+HH1231,coastal_L,6569,3.15,Kerela.ai,False,7,46,9900.0,4570.0,3200.0,False
+HH1232,feral_block,9433,2.68,Biharify,False,4,36,15800.0,7150.0,2100.0,False
+HH1233,coastal_L,9015,3.96,JhorrorKhand,True,6,67,10800.0,4030.0,8300.0,False
+HH1234,delulu_hub,324,3.44,Panic Nadu,False,6,43,6800.0,3560.0,1300.0,False
+HH1235,no_scope_city,4308,2.59,karNAHtaka,False,5,24,11400.0,4000.0,1300.0,False
+HH1236,rizz_rural,6383,3.97,Kerela.ai,False,5,40,33300.0,11890.0,1200.0,True
+HH1237,delulu_hub,2148,1.48,JhorrorKhand,False,5,65,21900.0,9600.0,2500.0,False
+HH1238,feral_block,6333,1.13,maharizztra,True,7,55,15000.0,5790.0,4100.0,False
+HH1239,delulu_hub,9865,1.14,maharizztra,True,4,56,5700.0,2130.0,5800.0,False
+HH1240,midtown_sadness,1928,1.84,Moodhya Pradesh,True,8,71,8900.0,4390.0,3600.0,False
+HH1241,midtown_sadness,2017,1.45,Kerela.ai,False,2,22,10600.0,5250.0,600.0,False
+HH1242,midtown_sadness,4334,4.22,Biharify,False,7,73,18200.0,9960.0,100.0,False
+HH1243,rizz_rural,7088,0.92,Moodhya Pradesh,False,1,42,14900.0,6340.0,500.0,False
+HH1244,delulu_hub,2126,3.3,Moodhya Pradesh,True,2,50,14800.0,4760.0,6600.0,False
+HH1245,midtown_sadness,3844,1.26,Uttar Downbad,False,1,27,14500.0,5540.0,1600.0,False
+HH1246,coastal_L,9193,4.03,Panic Nadu,False,4,58,14200.0,8430.0,1000.0,False
+HH1247,midtown_sadness,109,4.35,Kerela.ai,False,1,22,19700.0,9430.0,2100.0,False
+HH1248,midtown_sadness,360,2.36,Moodhya Pradesh,False,4,72,9400.0,4820.0,1100.0,False
+HH1249,midtown_sadness,6138,4.02,Uttar Downbad,False,5,22,13500.0,4080.0,1700.0,False
+HH1250,rizz_rural,9965,0.52,Biharify,True,6,48,7400.0,3370.0,10000.0,False
+HH1251,rizz_rural,2319,3.78,JhorrorKhand,True,9,42,14300.0,4450.0,2800.0,False
+HH1252,midtown_sadness,7141,1.41,karNAHtaka,True,5,74,21500.0,10120.0,10300.0,False
+HH1253,rizz_rural,2160,4.13,karNAHtaka,True,5,37,18200.0,10490.0,6500.0,False
+HH1254,delulu_hub,5387,0.5,Kerela.ai,False,3,65,3500.0,2070.0,1000.0,False
+HH1255,feral_block,1719,2.72,Moodhya Pradesh,False,1,75,30700.0,14190.0,400.0,False
+HH1256,midtown_sadness,8612,3.53,karNAHtaka,True,5,61,14400.0,6300.0,6200.0,False
+HH1257,feral_block,1442,1.53,Panic Nadu,True,6,47,15500.0,9040.0,7000.0,False
+HH1258,feral_block,2932,1.27,karNAHtaka,False,3,37,8000.0,4020.0,2200.0,False
+HH1259,delulu_hub,2924,0.84,karNAHtaka,True,5,49,11000.0,3510.0,9900.0,False
+HH1260,feral_block,2094,1.81,karNAHtaka,True,6,22,15300.0,6730.0,5300.0,False
+HH1261,midtown_sadness,3590,2.74,maharizztra,True,3,57,15700.0,5840.0,8200.0,False
+HH1262,delulu_hub,9410,0.96,Uttar Downbad,True,5,31,15600.0,6880.0,9500.0,False
+HH1263,coastal_L,8084,2.01,Moodhya Pradesh,True,6,64,11300.0,4930.0,7300.0,False
+HH1264,midtown_sadness,1704,0.54,Panic Nadu,True,2,38,5800.0,2750.0,5200.0,False
+HH1265,no_scope_city,335,3.77,Moodhya Pradesh,True,3,44,6500.0,2650.0,5400.0,False
+HH1266,feral_block,2008,1.01,maharizztra,False,3,28,20400.0,7130.0,1200.0,False
+HH1267,no_scope_city,8667,1.63,Kerela.ai,True,3,65,19000.0,8570.0,8200.0,False
+HH1268,rizz_rural,3630,0.57,Kerela.ai,False,1,74,12900.0,7080.0,1600.0,False
+HH1269,rizz_rural,5356,2.23,Kerela.ai,True,4,28,21300.0,10630.0,0.0,False
+HH1270,no_scope_city,2735,3.86,Biharify,True,4,65,11600.0,4660.0,3100.0,False
+HH1271,no_scope_city,8262,2.07,karNAHtaka,False,4,36,19100.0,11090.0,1900.0,False
+HH1272,midtown_sadness,9862,1.22,Biharify,True,4,55,16300.0,9350.0,600.0,False
+HH1273,midtown_sadness,2660,3.51,Uttar Downbad,True,6,67,21400.0,7760.0,10600.0,False
+HH1274,coastal_L,5515,3.66,Kerela.ai,True,3,66,6200.0,1930.0,10100.0,False
+HH1275,coastal_L,3491,1.2,maharizztra,False,3,25,13100.0,6840.0,1600.0,False
+HH1276,no_scope_city,6051,3.58,Panic Nadu,True,4,35,10300.0,5650.0,8800.0,False
+HH1277,feral_block,5568,4.29,Moodhya Pradesh,True,6,35,6600.0,3900.0,8600.0,False
+HH1278,no_scope_city,8107,1.17,karNAHtaka,False,4,37,23300.0,13210.0,2900.0,False
+HH1279,no_scope_city,9164,3.58,JhorrorKhand,True,11,28,27100.0,13010.0,2900.0,False
+HH1280,midtown_sadness,9544,3.33,Panic Nadu,False,3,53,13800.0,6330.0,2900.0,False
+HH1281,rizz_rural,6513,2.39,karNAHtaka,False,6,40,10000.0,3080.0,1900.0,False
+HH1282,rizz_rural,7041,0.73,Biharify,False,7,23,8300.0,3100.0,2100.0,False
+HH1283,delulu_hub,9606,0.8,Biharify,True,2,31,2600.0,1140.0,2800.0,False
+HH1284,feral_block,4920,3.91,Panic Nadu,False,6,71,11200.0,5470.0,500.0,False
+HH1285,delulu_hub,2998,4.46,Biharify,True,3,38,16700.0,7800.0,5100.0,False
+HH1286,coastal_L,7646,3.2,Kerela.ai,True,2,58,8300.0,4340.0,7400.0,False
+HH1287,coastal_L,177,2.28,Uttar Downbad,True,6,33,18000.0,6910.0,10600.0,False
+HH1288,rizz_rural,7677,3.09,Moodhya Pradesh,False,9,27,21400.0,10050.0,2000.0,False
+HH1289,feral_block,4327,2.88,Uttar Downbad,True,3,43,16500.0,5390.0,11700.0,False
+HH1290,delulu_hub,700,2.03,karNAHtaka,True,4,53,5000.0,2120.0,5800.0,False
+HH1291,delulu_hub,1165,0.76,Moodhya Pradesh,True,7,62,11300.0,5930.0,8500.0,False
+HH1292,no_scope_city,2236,3.79,maharizztra,False,6,41,17800.0,9040.0,2400.0,False
+HH1293,rizz_rural,9610,1.99,Moodhya Pradesh,False,2,22,24200.0,14450.0,1000.0,False
+HH1294,delulu_hub,7043,3.78,Uttar Downbad,False,7,75,25200.0,9660.0,700.0,False
+HH1295,coastal_L,7904,1.51,Panic Nadu,True,3,68,13400.0,6020.0,7900.0,False
+HH1296,no_scope_city,6665,0.5,Moodhya Pradesh,True,3,74,22500.0,8970.0,7900.0,False
+HH1297,rizz_rural,6084,1.14,maharizztra,False,1,27,11300.0,4880.0,0.0,False
+HH1298,feral_block,5242,2.37,maharizztra,True,4,40,5800.0,3230.0,1700.0,False
+HH1299,delulu_hub,4770,4.28,maharizztra,True,6,39,19400.0,9800.0,3300.0,False
+HH1300,delulu_hub,2290,0.91,Uttar Downbad,False,5,27,23600.0,13330.0,1300.0,False
+HH1301,coastal_L,9284,3.92,Moodhya Pradesh,False,3,66,29900.0,10800.0,600.0,False
+HH1302,coastal_L,2812,2.61,JhorrorKhand,False,6,54,11100.0,6240.0,1700.0,False
+HH1303,feral_block,2292,3.8,Panic Nadu,False,3,44,5900.0,1880.0,1600.0,False
+HH1304,no_scope_city,1348,1.69,Kerela.ai,False,3,44,18100.0,10260.0,3100.0,False
+HH1305,midtown_sadness,4133,3.86,Moodhya Pradesh,True,3,47,14300.0,5700.0,6200.0,False
+HH1306,coastal_L,2097,3.59,maharizztra,True,2,34,12600.0,4970.0,9000.0,False
+HH1307,rizz_rural,3787,1.42,JhorrorKhand,False,7,28,26700.0,12110.0,2200.0,False
+HH1308,no_scope_city,4118,1.03,Kerela.ai,True,3,36,18100.0,10540.0,7300.0,False
+HH1309,rizz_rural,2070,3.97,Kerela.ai,False,7,65,19100.0,6000.0,1400.0,False
+HH1310,coastal_L,8489,4.35,karNAHtaka,True,3,48,8700.0,3530.0,5700.0,False
+HH1311,delulu_hub,5865,0.63,Moodhya Pradesh,True,5,47,19200.0,10690.0,4900.0,False
+HH1312,delulu_hub,1302,3.43,Uttar Downbad,False,1,54,3800.0,1590.0,2300.0,False
+HH1313,midtown_sadness,8235,4.14,Moodhya Pradesh,False,5,36,15300.0,5500.0,1400.0,False
+HH1314,no_scope_city,5667,3.93,JhorrorKhand,False,3,57,11100.0,4740.0,1300.0,False
+HH1315,feral_block,7767,4.36,Kerela.ai,True,2,66,3700.0,1540.0,5000.0,False
+HH1316,coastal_L,5842,3.54,Moodhya Pradesh,False,3,48,14400.0,8270.0,1600.0,False
+HH1317,delulu_hub,5888,2.27,Uttar Downbad,True,9,26,14100.0,7450.0,5100.0,False
+HH1318,delulu_hub,5508,1.75,karNAHtaka,True,3,23,14200.0,6410.0,9600.0,False
+HH1319,rizz_rural,8769,1.78,Moodhya Pradesh,True,3,54,6600.0,3940.0,7100.0,False
+HH1320,coastal_L,9546,3.4,Panic Nadu,True,1,37,16200.0,7120.0,2800.0,False
+HH1321,no_scope_city,1022,3.48,karNAHtaka,True,3,44,27500.0,8730.0,5900.0,True
+HH1322,feral_block,519,1.3,Uttar Downbad,False,6,59,8800.0,3330.0,1100.0,False
+HH1323,rizz_rural,2304,3.97,JhorrorKhand,False,2,37,5600.0,2410.0,1600.0,False
+HH1324,midtown_sadness,1220,3.36,Kerela.ai,False,5,35,7300.0,2530.0,3100.0,False
+HH1325,no_scope_city,1050,2.75,Moodhya Pradesh,True,5,50,12000.0,7010.0,8000.0,False
+HH1326,feral_block,2436,2.39,Uttar Downbad,False,3,47,14000.0,7420.0,700.0,False
+HH1327,feral_block,5473,2.67,karNAHtaka,False,5,56,18600.0,7080.0,900.0,False
+HH1328,coastal_L,2343,1.14,Panic Nadu,False,5,36,15200.0,7250.0,1600.0,False
+HH1329,rizz_rural,2745,1.31,Uttar Downbad,True,3,24,16300.0,8420.0,5300.0,False
+HH1330,rizz_rural,4712,0.86,Biharify,True,3,44,10900.0,6350.0,7000.0,False
+HH1331,no_scope_city,1965,1.11,maharizztra,True,7,50,12100.0,6830.0,6900.0,False
+HH1332,delulu_hub,6128,2.31,Panic Nadu,True,3,55,6600.0,3000.0,7400.0,False
+HH1333,delulu_hub,7426,2.62,karNAHtaka,True,3,54,10200.0,5430.0,8300.0,False
+HH1334,delulu_hub,6471,0.57,JhorrorKhand,False,4,62,7700.0,3610.0,3100.0,False
+HH1335,delulu_hub,6459,3.69,Kerela.ai,True,2,62,12800.0,5960.0,8900.0,False
+HH1336,midtown_sadness,7963,1.68,karNAHtaka,True,3,44,6800.0,2270.0,2100.0,False
+HH1337,no_scope_city,3328,4.15,maharizztra,True,2,28,7600.0,2570.0,3000.0,False
+HH1338,coastal_L,3819,4.37,JhorrorKhand,True,5,24,22400.0,10280.0,13400.0,False
+HH1339,delulu_hub,2471,1.24,Moodhya Pradesh,True,4,53,22500.0,8560.0,5500.0,False
+HH1340,coastal_L,2991,2.35,Uttar Downbad,True,3,52,21100.0,6460.0,9200.0,False
+HH1341,coastal_L,3856,0.5,Biharify,True,7,39,15000.0,7750.0,12100.0,False
+HH1342,delulu_hub,4325,2.89,Panic Nadu,False,4,64,9300.0,2880.0,400.0,False
+HH1343,coastal_L,194,2.93,Panic Nadu,False,3,28,15000.0,7180.0,2100.0,False
+HH1344,rizz_rural,2774,1.49,Uttar Downbad,True,5,62,8900.0,4110.0,8900.0,False
+HH1345,feral_block,6998,2.73,Biharify,True,1,22,15100.0,8920.0,11900.0,False
+HH1346,feral_block,893,1.4,Uttar Downbad,False,5,35,9900.0,4410.0,900.0,False
+HH1347,delulu_hub,2216,1.14,Moodhya Pradesh,True,7,73,14000.0,4470.0,11400.0,False
+HH1348,rizz_rural,5879,3.11,maharizztra,True,2,53,16300.0,7590.0,4800.0,False
+HH1349,feral_block,6266,1.8,JhorrorKhand,False,4,27,5200.0,2870.0,2900.0,False
+HH1350,coastal_L,914,2.86,karNAHtaka,True,2,60,7000.0,4190.0,6900.0,False
+HH1351,midtown_sadness,445,2.23,Panic Nadu,False,3,31,14000.0,6010.0,2700.0,False
+HH1352,feral_block,8654,4.44,Moodhya Pradesh,True,7,28,19700.0,7800.0,7100.0,False
+HH1353,delulu_hub,2543,1.1,JhorrorKhand,True,1,47,12300.0,7040.0,1500.0,False
+HH1354,delulu_hub,7883,2.36,Moodhya Pradesh,True,3,55,9900.0,3540.0,0.0,False
+HH1355,feral_block,1084,3.22,Biharify,False,2,51,17300.0,8380.0,800.0,False
+HH1356,delulu_hub,7890,2.08,Panic Nadu,True,2,57,5500.0,2320.0,6200.0,False
+HH1357,feral_block,9931,4.4,karNAHtaka,True,2,42,5400.0,1690.0,8200.0,False
+HH1358,midtown_sadness,927,3.39,Uttar Downbad,False,1,38,11900.0,4810.0,2200.0,False
+HH1359,feral_block,3631,3.13,Uttar Downbad,True,1,54,4200.0,1590.0,13100.0,False
+HH1360,rizz_rural,7247,3.53,JhorrorKhand,True,3,31,28100.0,14210.0,7700.0,False
+HH1361,feral_block,4551,4.31,karNAHtaka,False,7,72,12200.0,7130.0,1200.0,False
+HH1362,coastal_L,3976,4.13,maharizztra,True,5,68,20100.0,7650.0,8000.0,False
+HH1363,coastal_L,6059,3.4,Kerela.ai,False,2,63,4700.0,2550.0,2000.0,False
+HH1364,midtown_sadness,226,3.5,Biharify,False,6,72,27700.0,8770.0,1600.0,False
+HH1365,rizz_rural,3277,1.08,JhorrorKhand,False,2,33,10400.0,4800.0,800.0,False
+HH1366,midtown_sadness,8895,0.91,Kerela.ai,True,4,37,9000.0,2890.0,7000.0,False
+HH1367,midtown_sadness,6124,2.78,Moodhya Pradesh,False,2,62,8500.0,4930.0,600.0,False
+HH1368,delulu_hub,5209,0.57,Biharify,True,3,53,7400.0,3920.0,3600.0,False
+HH1369,delulu_hub,4246,2.43,Moodhya Pradesh,False,2,36,9000.0,4480.0,2100.0,False
+HH1370,delulu_hub,7296,1.34,maharizztra,True,2,48,4800.0,2630.0,3700.0,False
+HH1371,delulu_hub,3468,1.88,karNAHtaka,True,7,49,12200.0,6030.0,7000.0,False
+HH1372,delulu_hub,3897,3.6,Panic Nadu,True,4,38,18900.0,11160.0,4600.0,False
+HH1373,feral_block,1892,4.26,Biharify,False,2,67,11800.0,6070.0,1500.0,False
+HH1374,delulu_hub,5832,0.79,Kerela.ai,False,3,71,6500.0,3750.0,1100.0,False
+HH1375,rizz_rural,3576,2.64,maharizztra,True,5,23,12200.0,5550.0,9500.0,False
+HH1376,no_scope_city,3517,4.03,Panic Nadu,True,3,57,21700.0,7270.0,13100.0,False
+HH1377,delulu_hub,1745,0.83,Uttar Downbad,False,2,71,7700.0,3530.0,500.0,False
+HH1378,no_scope_city,9497,3.8,Kerela.ai,True,4,28,7100.0,2400.0,10700.0,False
+HH1379,rizz_rural,3130,1.93,JhorrorKhand,True,1,34,13400.0,6400.0,5900.0,False
+HH1380,delulu_hub,2972,1.79,Uttar Downbad,False,2,36,2700.0,1200.0,1400.0,False
+HH1381,feral_block,3172,4.41,maharizztra,True,5,46,11700.0,5700.0,13600.0,False
+HH1382,feral_block,1954,1.3,Uttar Downbad,False,2,44,21800.0,6610.0,2100.0,False
+HH1383,midtown_sadness,4121,3.27,JhorrorKhand,True,3,43,10000.0,3580.0,2400.0,False
+HH1384,no_scope_city,4762,3.79,Biharify,True,3,47,19000.0,8500.0,9800.0,False
+HH1385,no_scope_city,6614,0.66,Uttar Downbad,True,10,54,13100.0,7670.0,7700.0,False
+HH1386,rizz_rural,5131,3.18,karNAHtaka,False,3,32,9800.0,4070.0,1700.0,False
+HH1387,delulu_hub,2808,4.31,Kerela.ai,True,4,31,10300.0,4400.0,6000.0,False
+HH1388,no_scope_city,7212,1.0,Panic Nadu,False,8,46,19900.0,10240.0,1400.0,False
+HH1389,no_scope_city,9624,4.08,Uttar Downbad,True,5,58,13800.0,6640.0,10500.0,False
+HH1390,midtown_sadness,8493,2.88,Kerela.ai,False,3,69,24500.0,9550.0,3500.0,False
+HH1391,coastal_L,3607,2.97,Moodhya Pradesh,True,4,64,9400.0,3980.0,2700.0,False
+HH1392,rizz_rural,6556,2.95,Kerela.ai,True,5,74,13700.0,5000.0,9100.0,False
+HH1393,no_scope_city,4312,1.7,Panic Nadu,False,5,59,11500.0,6780.0,2000.0,False
+HH1394,rizz_rural,8070,4.24,Kerela.ai,True,3,62,11200.0,3800.0,6000.0,False
+HH1395,midtown_sadness,8866,4.29,JhorrorKhand,True,9,66,16700.0,6870.0,11900.0,False
+HH1396,midtown_sadness,636,3.0,maharizztra,False,3,45,6800.0,2090.0,900.0,False
+HH1397,coastal_L,1725,3.63,Panic Nadu,True,4,61,18400.0,6740.0,6500.0,False
+HH1398,no_scope_city,8073,2.95,maharizztra,False,5,67,9700.0,5180.0,900.0,False
+HH1399,no_scope_city,8677,2.44,Biharify,True,6,54,10400.0,3750.0,7200.0,False
+HH1400,delulu_hub,8170,3.14,maharizztra,False,5,38,6800.0,2200.0,0.0,False
+HH1401,midtown_sadness,8766,2.71,Moodhya Pradesh,True,6,45,11300.0,5000.0,7600.0,False
+HH1402,coastal_L,8709,2.89,JhorrorKhand,True,4,58,8700.0,2640.0,5800.0,False
+HH1403,no_scope_city,6590,3.64,Biharify,False,6,23,6900.0,2250.0,800.0,False
+HH1404,rizz_rural,3700,2.42,Kerela.ai,False,1,53,8000.0,4340.0,2400.0,False
+HH1405,midtown_sadness,6883,0.66,Panic Nadu,True,6,45,26900.0,14300.0,7300.0,False
+HH1406,rizz_rural,9246,1.16,Moodhya Pradesh,True,4,30,6200.0,3560.0,3900.0,False
+HH1407,delulu_hub,5071,2.25,JhorrorKhand,False,11,25,19100.0,10630.0,900.0,False
+HH1408,midtown_sadness,1305,3.4,Biharify,True,8,38,14800.0,7470.0,9900.0,False
+HH1409,delulu_hub,2090,2.87,Biharify,False,4,38,17100.0,5400.0,300.0,False
+HH1410,rizz_rural,5399,3.1,Moodhya Pradesh,False,1,74,14700.0,7860.0,1100.0,False
+HH1411,midtown_sadness,3672,2.42,karNAHtaka,True,2,71,33400.0,18490.0,4200.0,True
+HH1412,midtown_sadness,6075,2.96,Kerela.ai,True,4,69,14000.0,7560.0,3400.0,False
+HH1413,feral_block,6420,1.82,Moodhya Pradesh,False,5,51,9200.0,4160.0,1900.0,False
+HH1414,feral_block,4480,2.38,Biharify,True,3,61,8200.0,3030.0,7500.0,False
+HH1415,coastal_L,4857,3.48,Uttar Downbad,True,2,32,7600.0,4210.0,13000.0,False
+HH1416,rizz_rural,2813,3.99,JhorrorKhand,False,4,42,8800.0,4560.0,900.0,False
+HH1417,rizz_rural,5688,2.23,Moodhya Pradesh,True,3,42,27400.0,16280.0,6800.0,True
+HH1418,feral_block,1066,0.67,karNAHtaka,False,2,39,15300.0,5300.0,2500.0,False
+HH1419,no_scope_city,5044,1.15,Biharify,True,4,50,15800.0,5810.0,8800.0,False
+HH1420,no_scope_city,3532,0.58,Kerela.ai,True,3,45,6200.0,2250.0,8200.0,False
+HH1421,no_scope_city,788,3.11,maharizztra,True,5,31,18700.0,10060.0,11500.0,False
+HH1422,delulu_hub,4343,1.83,Biharify,True,5,66,22700.0,8080.0,10300.0,False
+HH1423,coastal_L,3801,2.67,Kerela.ai,True,3,38,9900.0,3170.0,8100.0,False
+HH1424,delulu_hub,8633,2.47,Moodhya Pradesh,True,6,39,11100.0,6660.0,5600.0,False
+HH1425,coastal_L,5282,0.83,Kerela.ai,False,1,63,22900.0,7040.0,700.0,False
+HH1426,coastal_L,6804,2.11,Panic Nadu,True,6,69,10600.0,5840.0,6700.0,False
+HH1427,midtown_sadness,4522,1.38,Panic Nadu,True,4,41,8200.0,3360.0,9900.0,False
+HH1428,rizz_rural,1859,2.17,Panic Nadu,True,1,58,4600.0,2540.0,9500.0,False
+HH1429,delulu_hub,9281,1.31,karNAHtaka,True,5,66,12800.0,5970.0,6100.0,False
+HH1430,delulu_hub,2582,3.86,karNAHtaka,True,3,39,13000.0,7420.0,2600.0,False
+HH1431,no_scope_city,8158,1.2,Uttar Downbad,True,1,38,17100.0,9880.0,11000.0,False
+HH1432,feral_block,1051,4.34,karNAHtaka,True,3,30,15200.0,4600.0,8700.0,False
+HH1433,delulu_hub,9014,2.16,maharizztra,True,3,35,15100.0,4870.0,6000.0,False
+HH1434,delulu_hub,2179,3.88,Moodhya Pradesh,True,1,70,20500.0,7690.0,8600.0,False
+HH1435,no_scope_city,2817,3.02,Biharify,False,1,50,4400.0,2200.0,2600.0,False
+HH1436,delulu_hub,4624,3.44,Biharify,True,7,52,9100.0,5150.0,11000.0,False
+HH1437,no_scope_city,9792,3.57,Uttar Downbad,True,1,25,13600.0,5960.0,1200.0,False
+HH1438,no_scope_city,8577,2.52,karNAHtaka,False,3,39,10500.0,5060.0,400.0,False
+HH1439,delulu_hub,7411,2.67,maharizztra,True,5,41,21100.0,7520.0,11800.0,False
+HH1440,delulu_hub,7286,2.56,Kerela.ai,False,1,68,9100.0,4930.0,2200.0,False
+HH1441,midtown_sadness,2165,2.85,Uttar Downbad,True,1,64,6000.0,3540.0,12300.0,False
+HH1442,rizz_rural,868,0.62,maharizztra,True,4,65,16800.0,6390.0,3300.0,False
+HH1443,rizz_rural,5590,2.08,Kerela.ai,True,8,30,16900.0,7580.0,10200.0,False
+HH1444,no_scope_city,6745,2.92,maharizztra,True,7,34,15100.0,4920.0,10000.0,False
+HH1445,midtown_sadness,5183,2.89,Kerela.ai,False,4,36,39200.0,18340.0,1800.0,True
+HH1446,midtown_sadness,5332,3.67,JhorrorKhand,True,3,48,21600.0,9740.0,6100.0,False
+HH1447,no_scope_city,5897,3.12,maharizztra,False,5,36,18900.0,6490.0,1100.0,False
+HH1448,rizz_rural,9238,4.47,Biharify,True,5,49,14100.0,6100.0,2100.0,False
+HH1449,delulu_hub,5026,1.64,Panic Nadu,True,2,58,10500.0,4200.0,6200.0,False
+HH1450,no_scope_city,6116,1.94,karNAHtaka,True,3,40,9500.0,4340.0,9600.0,False
+HH1451,feral_block,3435,2.04,Kerela.ai,True,6,47,15800.0,7520.0,5800.0,False
+HH1452,coastal_L,8138,2.36,JhorrorKhand,True,7,73,12600.0,3810.0,7700.0,False
+HH1453,midtown_sadness,4973,3.84,maharizztra,False,4,47,6800.0,3590.0,0.0,False
+HH1454,delulu_hub,1581,1.44,Biharify,False,2,46,10000.0,5140.0,2200.0,False
+HH1455,coastal_L,6405,3.6,Panic Nadu,True,7,47,17400.0,7130.0,4900.0,False
+HH1456,delulu_hub,3551,2.12,Kerela.ai,False,3,47,19200.0,6060.0,100.0,False
+HH1457,coastal_L,154,2.91,maharizztra,False,4,67,8200.0,4320.0,1200.0,False
+HH1458,delulu_hub,7743,3.03,maharizztra,False,6,49,14600.0,8560.0,2900.0,False
+HH1459,delulu_hub,3562,1.99,Kerela.ai,True,3,70,15200.0,5660.0,11200.0,False
+HH1460,delulu_hub,932,2.55,Uttar Downbad,False,1,39,13000.0,5160.0,0.0,False
+HH1461,feral_block,6054,2.15,Uttar Downbad,True,3,53,26600.0,9450.0,4800.0,False
+HH1462,no_scope_city,8619,0.78,Biharify,False,4,74,10600.0,5010.0,1200.0,False
+HH1463,feral_block,7321,2.25,Panic Nadu,True,3,24,6900.0,2390.0,7500.0,False
+HH1464,midtown_sadness,3410,0.89,Kerela.ai,True,3,23,12000.0,4880.0,9200.0,False
+HH1465,rizz_rural,3400,2.12,Biharify,False,4,54,10900.0,5550.0,800.0,False
+HH1466,rizz_rural,6822,2.87,Biharify,True,2,63,8000.0,3740.0,0.0,False
+HH1467,midtown_sadness,7318,2.82,Moodhya Pradesh,False,2,40,7300.0,3040.0,1700.0,False
+HH1468,rizz_rural,7876,3.15,maharizztra,False,3,38,13400.0,5710.0,2300.0,False
+HH1469,midtown_sadness,3775,0.88,karNAHtaka,False,3,65,7700.0,3610.0,900.0,False
+HH1470,delulu_hub,3154,3.11,maharizztra,True,5,54,18900.0,5700.0,0.0,False
+HH1471,midtown_sadness,8070,1.75,Uttar Downbad,False,2,33,15500.0,5020.0,2600.0,False
+HH1472,delulu_hub,2243,2.1,Panic Nadu,True,4,70,15100.0,8520.0,5600.0,False
+HH1473,midtown_sadness,5307,3.93,maharizztra,True,3,24,6400.0,2070.0,3700.0,False
+HH1474,coastal_L,9603,0.54,Kerela.ai,False,4,64,14100.0,7220.0,1800.0,False
+HH1475,midtown_sadness,2638,2.85,Biharify,True,5,70,21900.0,12610.0,6600.0,False
+HH1476,delulu_hub,4647,2.89,Kerela.ai,True,6,47,20600.0,7850.0,8500.0,False
+HH1477,feral_block,5719,2.09,Moodhya Pradesh,False,1,56,14200.0,5840.0,2300.0,False
+HH1478,midtown_sadness,8456,1.45,Panic Nadu,True,3,29,11500.0,5410.0,3600.0,False
+HH1479,coastal_L,6712,1.44,Biharify,True,1,73,9200.0,5190.0,5300.0,False
+HH1480,feral_block,5105,4.03,Kerela.ai,False,1,57,19800.0,11530.0,0.0,False
+HH1481,feral_block,922,2.27,Uttar Downbad,True,2,74,12300.0,6420.0,1900.0,False
+HH1482,coastal_L,1043,1.82,karNAHtaka,False,3,75,13400.0,4370.0,200.0,False
+HH1483,feral_block,6250,2.3,Moodhya Pradesh,False,5,28,46800.0,23430.0,1100.0,True
+HH1484,feral_block,4525,3.18,Panic Nadu,False,4,67,10500.0,4440.0,1200.0,False
+HH1485,midtown_sadness,9066,1.08,Moodhya Pradesh,False,1,67,1800.0,790.0,300.0,False
+HH1486,delulu_hub,2298,2.3,Uttar Downbad,True,5,57,12300.0,3870.0,4700.0,False
+HH1487,rizz_rural,4342,2.85,Panic Nadu,True,2,37,9600.0,3430.0,3500.0,False
+HH1488,midtown_sadness,3795,4.29,Moodhya Pradesh,False,2,45,12200.0,6550.0,400.0,False
+HH1489,midtown_sadness,3552,1.51,JhorrorKhand,False,7,75,18900.0,8240.0,1600.0,False
+HH1490,coastal_L,9206,1.94,Uttar Downbad,True,2,22,3000.0,1170.0,13000.0,False
+HH1491,feral_block,1408,2.02,Uttar Downbad,True,4,70,16100.0,6680.0,7900.0,False
+HH1492,rizz_rural,4277,2.92,Uttar Downbad,True,8,46,16000.0,8900.0,7400.0,False
+HH1493,delulu_hub,8805,1.93,JhorrorKhand,True,2,31,8700.0,4560.0,5400.0,False
+HH1494,coastal_L,6952,2.63,JhorrorKhand,False,3,75,4700.0,1790.0,500.0,False
+HH1495,rizz_rural,6135,3.63,Kerela.ai,True,1,37,22400.0,7510.0,8900.0,False
+HH1496,feral_block,3694,3.32,Biharify,False,1,37,6900.0,2590.0,0.0,False
+HH1497,delulu_hub,4941,2.29,karNAHtaka,False,3,29,16400.0,9450.0,1100.0,False
+HH1498,midtown_sadness,1509,3.96,Moodhya Pradesh,True,7,50,11100.0,5270.0,6900.0,False
+HH1499,midtown_sadness,4666,2.73,Kerela.ai,False,6,60,16500.0,7590.0,200.0,False

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>brainRot</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Title Section -->
+        <section class="title-section">
+            <h1 class="main-title">brainRot</h1>
+            <p class="subtitle">we rotting our brain with this one!!</p>
+            <p class="author">made by atharv</p>
+        </section>
+
+        <!-- About Section -->
+        <section class="about-section">
+            <h2 class="section-header">About</h2>
+            <div class="about-box">
+                <p>brainRot is a revolutionary package that embraces the chaos of modern internet culture. It's designed to help you understand and analyze the beautiful mess that is contemporary digital communication. Perfect for researchers, meme enthusiasts, and anyone trying to decode Gen Z.</p>
+            </div>
+        </section>
+
+        <!-- Installation Section -->
+        <section class="install-section">
+            <h2 class="section-header">Install</h2>
+            <div class="code-container">
+                <button class="copy-btn" onclick="copyCode()">Copy</button>
+                <pre class="code-block"><code>remotes::install_github("atharvdeshpande/brainRot")</code></pre>
+            </div>
+        </section>
+
+        <!-- CSV Download Section -->
+        <section class="download-section">
+            <h2 class="section-header">Download</h2>
+            <a href="MOCKDATA.csv" download="MOCKDATA.csv" class="download-btn">
+                Download CSV File
+            </a>
+        </section>
+    </div>
+
+    <!-- Alert for copy confirmation -->
+    <div id="alert" class="alert">Code copied to clipboard!</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
