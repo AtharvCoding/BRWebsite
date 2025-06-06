@@ -1,5 +1,5 @@
 function copyCode() {
-    const codeText = 'devtools::install_github("atharvdeshpande/brainRot")';
+    const codeText = 'remotes::install_github("AtharvCoding/brainRot")';
     
     // Create a temporary textarea element to copy the text
     const tempTextArea = document.createElement('textarea');
