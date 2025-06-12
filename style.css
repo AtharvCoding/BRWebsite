@@ -201,7 +201,7 @@ body {
 
 .yellow {
     background-color: #f1c40f;
-    color: black;
+    color: white;
 }
 .yellow:hover {
     background-color: white;
@@ -246,6 +246,7 @@ body {
 .black:hover {
     background-color: white;
     color: #2c3e50;
+    
 }
 
 .download-btn:active {
@@ -322,3 +323,43 @@ body {
         font-size: 1rem;
     }
 }
+
+
+.mukund-button {
+    background: linear-gradient(
+        to right,
+        red 15%,
+        orange 24%,
+        yellow 35%,
+        green 48%,
+        blue 64%,
+        indigo 80%,
+        violet 100%
+    );
+
+    margin-top: 40px;
+    height: 400px;
+    width: 900px;
+    border-radius: 10px;
+    font-size: 100px;
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    margin-left: -100px;
+}
+
+ .mukund-button:hover
+ {
+    transition: color 1s;
+    background: linear-gradient(
+        to right,
+        magenta 15%,
+        deeppink 25%,
+        pink 35%,
+        lightpink 60%, 
+        pink 75%, 
+        deeppink 90%,
+        magenta 100%
+    );
+    color: black;
+ }
